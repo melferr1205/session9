@@ -1,0 +1,13 @@
+
+.tabla-estilo {
+  border-collapse: collapse;
+  width: 80%;
+  margin-top: 20px;
+  background-color: rgb(238, 229, 229);
+}
+
+.tabla-estilo, .tabla-estilo th, .tabla-estilo td {
+  border: 1px solid #0e0303;
+  padding: 10px;
+  text-align: left;
+}
